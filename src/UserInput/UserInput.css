@@ -1,0 +1,18 @@
+.UserInput {
+    width: 70%;
+    margin: auto;
+    margin-top: 10px;
+    border: 1px solid black;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 5px;
+    text-align: center;
+    color: rgb(73, 153, 177);
+}
+
+.button {
+    background-color: rgb(248, 153, 177);
+    margin-left: 3%;
+    border: 1x solid blue;
+    padding: 8x;
+    cursor:pointer;
+  }

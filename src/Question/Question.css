@@ -1,0 +1,10 @@
+.Question {
+    width: 60%;
+    margin: auto;
+    margin-top: 10px;
+    border: 1px solid black;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 5px;
+    text-align: center;
+    color: rgb(73, 153, 177);
+}
